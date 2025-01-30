@@ -3,7 +3,7 @@
 Welcome to the **SQL Commands Repository**! This repository contains a comprehensive SQL file that covers all fundamental and advanced SQL commands, from inserting data to performing complex joins.
 
 ## 📂 Repository Structure
-- **SQL_Commands.sql** - A complete collection of SQL queries covering:
+- **SQL 1** - A complete collection of SQL queries covering:
   - Data Definition Language (DDL): `CREATE`, `ALTER`, `DROP`
   - Data Manipulation Language (DML): `INSERT`, `UPDATE`, `DELETE`
   - Data Query Language (DQL): `SELECT`, `WHERE`, `ORDER BY`
